@@ -40,6 +40,6 @@ export default {
   },
   target: 'static',
   router: {
-    base: '/tttteeessstttt/dist/'
+    base: '/tttteeessstttt/'
   }
 }
